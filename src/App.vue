@@ -4,7 +4,7 @@
             <v-container fluid>
                 <a class="d-flex align-center white--text" href="https://nelsontron.com" style="text-decoration: none !important;">
                     <v-spacer></v-spacer>
-                    <span class="font mr-0" style="font-size: 22pt !important;">NELSON ART ◼</span>
+                    <span class="font mr-0" style="font-size: 22pt !important;">NELSON ART</span>
                     <v-img
                     max-width="80pt"
                     max-height="80pt"
