@@ -2,7 +2,7 @@
     <v-app >
         <v-main style="background: #050505 !important;">
             <v-container fluid>
-                <a class="d-flex align-center white--text" href="https://nelsontron.com" style="text-decoration: none !important;">
+                <a class="d-flex align-center white--text" href="https://nelsontron.com" style="text-decoration: none !important;" target="__blank">
                     <v-spacer></v-spacer>
                     <span class="font mr-0" style="font-size: 22pt !important;">NELSON ART</span>
                     <v-img
